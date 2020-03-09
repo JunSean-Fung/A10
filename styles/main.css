@@ -43,15 +43,10 @@ header h3 {
     text-indent: 30px;
 }
 
-/* When focus on the link */
-a:focus {
+/* focus and hover should be together */
+a:focus, a:focus {
     font-style: italic;
 }
-/* when hover on the link */
-a:hover {
-    font-style: italic;
-}
-
 
 
 /* text shadow */
