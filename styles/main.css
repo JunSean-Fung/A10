@@ -44,7 +44,7 @@ header h3 {
 }
 
 /* focus and hover should be together */
-a:focus, a:focus {
+a:focus, a:hover {
     font-style: italic;
 }
 
