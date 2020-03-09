@@ -3,7 +3,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    margin: 10px 10px 10px;
+    margin: 8px 8px 8px; /* default margin */
 }
 
 /* the styles for the header */
