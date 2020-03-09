@@ -14,5 +14,41 @@ header img {
 main {
     clear: left;
 }
+/* styles for h1 within the main element*/
+main h1 {
+    font-size: 150%;
+}
+
+/* styles for h2 within the main element*/
+main h2 {
+    font-size: 130%;
+    color: #800000;
+
+}
+/* styles for h3 within the main element*/
+main h3{
+    font-size: 105%;
+}
+
+/* style for h2 */
+h2 {
+    font-size: 170%;
+    color: #800000;
+    text-indent: 30px;
+}
+/* style for h3 */
+h3 {
+    font-size: 130%;
+    font-style: italic;
+    text-indent: 30px;
+}
+
+/* when hover on the link*/
+a:hover {
+    font-style: italic;
+}
 
 /* the styles for the footer */
+footer p{
+    text-align: center; /* align the text to center */
+}
